@@ -1,0 +1,14 @@
+aws
+- elasticbeanstalk
+- dynamoDB
+
+Fragen:
+- Vorgehensmodell
+- Testing - Was wird da gemacht?
+- Repos, CI/CD-Pipeline, Deployment Environments
+- Datenbanken
+- Go & Python, wieso beides?
+
+
+Kubernetes tutorials/courses
+- https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster
